@@ -2,7 +2,7 @@
 
 API documentation spanning backend, frontend and clients.
 
-Goto <https://dynv6.github.io/api-spec/> to browse the documentation.
+Goto <https://dongz2626.github.io/> to browse the documentation.
 
 ---
 
