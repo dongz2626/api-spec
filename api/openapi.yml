@@ -67,7 +67,7 @@ components:
 
         Then add the following header to your HTTP request:
 
-            Authorization: Bearer YOUR_TOKEN
+            Authorization: Bearer  35kZqjxjZ9giSqiiL_-66EeGbzBzVz
 
         (replace `YOUR_TOKEN` with, well, your token). If the requests sent
         to our servers contain an invalid token, you'll generally receive
@@ -76,7 +76,7 @@ components:
         Example with cURL:
 
             curl \
-                -H "Authorization: Bearer YOUR_TOKEN" \
+                -H "Authorization: Bearer  35kZqjxjZ9giSqiiL_-66EeGbzBzVz" \
                 -H "Accept: application/json" \
                 https://dynv6.com/api/v2/zones
       type: http
