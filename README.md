@@ -1,3 +1,4 @@
+![SAVE_20250704_182741](https://github.com/user-attachments/assets/3efaefa0-21d1-4493-ba5f-57dc511d7ec3)
 # dynv6 API specification
 
 API documentation spanning backend, frontend and clients.
